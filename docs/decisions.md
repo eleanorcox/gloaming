@@ -30,6 +30,7 @@ Template:
 | No. | Decision | Date | Status |
 | --- | --- | --- | --- |
 | [1](#1-working-name-gloaming) | Working name: Gloaming | 17 Nov 2026 | Decided |
+| [2](#2-fireflies-not-glow-worms) | Fireflies, not glow-worms | 17 Nov 2026 | Decided |
 
 ## 1. Working name: Gloaming
 
@@ -39,3 +40,12 @@ Template:
 - **Decision:** Gloaming, as a working name; the repository and folder are `gloaming`.
 - **Alternatives considered:** Fireflies (plain, but Britain mostly has glow-worms), Lampyris (the glow-worm's genus), Glimmer.
 - **What follows from it:** A dusk name leaves room for glow-worms, fireflies or both, and fits beside Cat's Eyes.
+
+## 2. Fireflies, not glow-worms
+
+- **Date:** 17 November 2026
+- **Status:** Decided
+- **What prompted it:** The first docs suggested Britain's glow-worms, steady glows in the grass, as a British twist, and asked whether it should be fireflies, glow-worms or both. Eleanor chose fireflies.
+- **Decision:** Gloaming is about fireflies: flying, flashing lights. Glow-worms are out.
+- **Alternatives considered:** Glow-worms, or both together. Lost: the flashing, and the syncing it allows, are the heart of it.
+- **What follows from it:** The glow-worm idea is removed from the ideas list. The name still fits: dusk is when fireflies come out.

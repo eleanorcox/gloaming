@@ -7,7 +7,7 @@ How we work, git, writing and subagent rules are shared by all the projects and 
 ## Rules that already hold
 
 - **Experiments are allowed to be rough.** Quick trials to find out what feels good go on an experiment branch, and what they taught is written into [docs/ideas.md](docs/ideas.md) before the branch is deleted. Test-first applies once something is being built to keep.
-- **Biology is unchecked until sourced.** Facts about fireflies and glow-worms are labelled unchecked until there is a source.
+- **Biology is unchecked until sourced.** Facts about fireflies are labelled unchecked until there is a source.
 
 ## Commands
 

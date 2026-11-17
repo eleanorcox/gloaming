@@ -10,7 +10,6 @@ Every idea so far, each with the smallest version worth trying. Sizes are rough 
 | Flashing in sync | S | no |
 | Responding to sound | S | microphone |
 | Responding to people | S, reusing the aquarium's movement input | webcam |
-| Glow-worms in the grass | S | no |
 | Depth: near and far lights | M | no |
 | Projected on a wall or ceiling | S | projector |
 | Projection-mapped onto real things | M | projector |
@@ -40,10 +39,6 @@ Some fireflies flash together: a few kinds gather in thousands and end up blinki
 ## Responding to people
 
 The aquarium already has movement input: the webcam spots anything moving and the fish react. Here, fireflies could part around someone walking past, or gather where someone stands still. Cupping your hands could hold a firefly, using the aquarium's hand tracking.
-
-## Glow-worms in the grass
-
-The British version: steady green glows low down in grass, dim flying lights searching above them. A flyer that finds a glow lands, and the glow goes out (unchecked as biology; true enough as a story).
 
 ## Depth: near and far lights
 
